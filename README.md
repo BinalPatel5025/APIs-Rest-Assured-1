@@ -142,9 +142,3 @@
 	    <version>2.9.8</version>
 	</dependency>
 
-• In the pojo class, each class variables to be annotated with @JSONProperty. If left default the variable name is equal to JSON property name.  If we mention it as "@JSONProperty("name")" then the name mentioned here corresponds to the json object property name
-• Now to convert the json response into an object of POJO class, use 'response.as(ClassName.class)' after obtaining the response normally
-	○ e.g. 
-	BookingDetails bookingDetails = response.as(BookingDetails.class);
-	System.out.println("Additional Details are : "+bookingDetails.getAdditionalneeds());
-  
