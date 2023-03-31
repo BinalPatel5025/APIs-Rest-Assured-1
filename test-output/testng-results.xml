@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-23T20:32:51 EDT" name="Default suite" finished-at="2022-06-23T20:32:53 EDT" duration-ms="2718">
+    <groups>
+    </groups>
+    <test started-at="2022-06-23T20:32:51 EDT" name="Default test" finished-at="2022-06-23T20:32:53 EDT" duration-ms="2718">
+      <class name="com.qa.practice.Postp">
+        <test-method signature="jsondataTest(java.lang.String,java.lang.String)[pri:0, instance:com.qa.practice.Postp@4dbb42b7]" started-at="2022-06-23T20:32:51 EDT" name="jsondataTest" data-provider="xpdataprovider" finished-at="2022-06-23T20:32:53 EDT" duration-ms="1525" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[binal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cashier]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsondataTest -->
+        <test-method signature="jsondataTest(java.lang.String,java.lang.String)[pri:0, instance:com.qa.practice.Postp@4dbb42b7]" started-at="2022-06-23T20:32:53 EDT" name="jsondataTest" data-provider="xpdataprovider" finished-at="2022-06-23T20:32:53 EDT" duration-ms="309" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tester]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsondataTest -->
+        <test-method signature="jsondataTest(java.lang.String,java.lang.String)[pri:0, instance:com.qa.practice.Postp@4dbb42b7]" started-at="2022-06-23T20:32:53 EDT" name="jsondataTest" data-provider="xpdataprovider" finished-at="2022-06-23T20:32:53 EDT" duration-ms="288" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hiten]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[agri]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsondataTest -->
+      </class> <!-- com.qa.practice.Postp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
